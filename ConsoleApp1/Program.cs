@@ -15,6 +15,7 @@ public class  SuperPowerGenerator
         Warrior enemy = null;
 
         Console.WriteLine("Choose 1-generate super power; 2- choose hero and enemy; 3 - choose super power");
+        Console.WriteLine("Choose 1-generate super power; 2- choose hero and enemy; 3 - choose super power");
         while (true)
         {   
             switch (Console.ReadLine())
